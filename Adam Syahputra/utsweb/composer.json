@@ -1,0 +1,14 @@
+{
+    "name": "lenovo/utsweb",
+    "description": "UTS Pemograman Web Berbasis Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "authors": [
+        {
+            "name": "Adam Syahputra",
+            "email": "adamsyahputra31052002@gmail.com"
+        }
+    ]
+}
